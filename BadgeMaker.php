@@ -105,7 +105,7 @@ public function display_public() {
       <img src="#">
       <a href="#">Insert Name</a>
     </div>
-    <p>in reply to: <a class="u-in-reply-to" href="https://mrkean.com/uncategorized/daily-ponderance-8-2/">Daily Ponderance</a></p>
+    <p>in reply to: <a class="u-in-reply-to" href="#/">Insert Name of lesson</a></p>
     <p class="summary">
       <img class="u-photo" src="#">
       You earned the <span class="p-name">$Name</span> in $class
